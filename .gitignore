@@ -1,0 +1,20 @@
+# Unreal Engine 5 Project GitIgnore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Autosave/
+
+# VS/VSCode/Rider project files
+.vs/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.idea/
+
+# User-specific configuration
+Config/User*/
+
+# Crash reports
+CrashReportClient/
